@@ -4,7 +4,7 @@
 
 The first in Dagestan and Azerbaijan aggregator restaurants, cooperating with more than 50 cafes and restaurants.
 
-[![](http://diitcenter.ru/upload/iblock/a1e/a1e008ca392a76c004415b5199fc89c2.png)](http://diitcenter.ru/upload/iblock/a1e/a1e008ca392a76c004415b5199fc89c2.png)
+[![](http://a2.mzstatic.com/us/r30/Purple62/v4/31/55/10/3155105b-d8a8-8cb2-ed23-47910cf41bce/screen696x696.jpeg)](http://a2.mzstatic.com/us/r30/Purple62/v4/31/55/10/3155105b-d8a8-8cb2-ed23-47910cf41bce/screen696x696.jpeg)
 
 ## Documentation
 
@@ -18,7 +18,15 @@ It developed a mobile application where in a convenient format, you can choose a
 
 * **Menu:** The application menu is divided into categories offered by each individual institution. Example: Japanese, European, Pizza, BBQ, desserts and more.
 
-* Select a section, you are given a list of dishes offered by the institution, with an indication of prices, photos, descriptions of meals and the opportunity to add to the cart.
+* **Menu:** Select a section, you are given a list of dishes offered by the institution, with an indication of prices, photos, descriptions of meals and the opportunity to add to the cart.
 
-* This screen displays all of your chosen dish, with a description of each, indicating prices and pictures. you can remove from basket any of the dishes or change the number of servings if desired. Shopping cart will automatically calculate the total order checks, including delivery. It remains only to press the button "Send", and then called back to clarify your order.
+* **Menu:** This screen displays all of your chosen dish, with a description of each, indicating prices and pictures. you can remove from basket any of the dishes or change the number of servings if desired. Shopping cart will automatically calculate the total order checks, including delivery. It remains only to press the button "Send", and then called back to clarify your order.
+
+## Source
+
+You can download app [here](https://itunes.apple.com/us/app/dostavka05/id999363875?l=ru&ls=1&mt=8)
+
+## License
+
+Professional development of mobile applications, adaptive websites and branding for your business is available [here](http://diitcenter.ru/)
 
