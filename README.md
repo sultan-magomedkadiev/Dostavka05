@@ -6,7 +6,6 @@ The first in Dagestan and Azerbaijan aggregator restaurants, cooperating with mo
 
 [![](http://a2.mzstatic.com/us/r30/Purple62/v4/31/55/10/3155105b-d8a8-8cb2-ed23-47910cf41bce/screen696x696.jpeg)](http://a2.mzstatic.com/us/r30/Purple62/v4/31/55/10/3155105b-d8a8-8cb2-ed23-47910cf41bce/screen696x696.jpeg)
 [![](http://a4.mzstatic.com/us/r30/Purple71/v4/ac/c8/0b/acc80bbb-4a52-8750-71b0-5e99cfdb78f1/screen696x696.jpeg)](http://a4.mzstatic.com/us/r30/Purple71/v4/ac/c8/0b/acc80bbb-4a52-8750-71b0-5e99cfdb78f1/screen696x696.jpeg)
-[![](http://a2.mzstatic.com/us/r30/Purple71/v4/38/de/e4/38dee468-122a-ccdf-9e53-d3c9b042d1b7/screen696x696.jpeg)](http://a2.mzstatic.com/us/r30/Purple71/v4/38/de/e4/38dee468-122a-ccdf-9e53-d3c9b042d1b7/screen696x696.jpeg)
 
 ## Documentation
 
